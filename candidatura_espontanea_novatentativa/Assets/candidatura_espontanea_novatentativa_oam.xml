@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-1320203" name="candidatura_espontanea_novatentativa" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/icon.png" width="1024" height="768" />
+
+  <require type="other" src="candidatura_espontanea_novatentativa.html" />
+
+  <require type="javascript" src="candidatura_espontanea_novatentativa_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/contactos.png" />
+  <require type="image" src="images/curriculo.png" />
+  <require type="image" src="images/exports_candidaturaespontanea-14.png" />
+  <require type="image" src="images/exports_candidaturaespontanea-15.png" />
+  <require type="image" src="images/exports_candidaturaespontanea-18.png" />
+  <require type="image" src="images/exports_candidaturaespontanea-19.png" />
+  <require type="image" src="images/exports_candidaturaespontanea-20.png" />
+  <require type="image" src="images/exports_candidaturaespontanea-21.png" />
+  <require type="image" src="images/export_contactos.png" />
+  <require type="image" src="images/export_curriculo.png" />
+  <require type="image" src="images/export_portefolio.png" />
+  <require type="image" src="images/icon.png" />
+  <require type="image" src="images/IMG_8944.png" />
+  <require type="image" src="images/inicio.png" />
+  <require type="image" src="images/portefolio.png" />
+  <require type="image" src="images/Poster.png" />
+  <require type="image" src="images/Poster2.png" />
+  <require type="image" src="images/seta_branca.png" />
+  <require type="image" src="images/seta_cor.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-1320203"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="1024" hidden="true"/>
+    <property name="default-height" defaultValue="768" hidden="true"/>
+    <property name="resizable" defaultValue="true" hidden="true"/>				
+		<property name="centering" defaultValue="both" hidden="true"/>				
+		<property name="scaling" defaultValue="both" hidden="true"/>
+    <property name="html-page" defaultValue="candidatura_espontanea_novatentativa.html" hidden="true"/>
+  </properties>
+
+</widget>
