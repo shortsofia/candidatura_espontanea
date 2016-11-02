@@ -1,1 +1,0 @@
-# candidatura_espontanea
